@@ -14,7 +14,7 @@ A React-based typing speed test application that measures your typing speed in w
 
 1. Clone the repository
 ```
-git clone https://github.com/your-username/typing-speed-test.git
+git clone https://github.com/ixedasan/react-typing-speed-test.git
 cd typing-speed-test
 ``` 
 2. Install dependencies:
