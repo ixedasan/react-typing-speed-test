@@ -81,7 +81,7 @@ export function App() {
 		return () => {
 			clearInterval(interval)
 		}
-	}, [typing.isTyping, typing.timeLeft, typing.charIndex, typing.mistakes])
+	}, [typing.isTyping, typing.timeLeft])
 
 	const reset = () => {
 		dispatch({ type: 'RESET' })
